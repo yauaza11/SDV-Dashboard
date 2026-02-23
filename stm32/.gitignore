@@ -1,0 +1,13 @@
+# Build artifacts
+Debug/
+Release/
+bin/
+obj/
+
+# Project-specific settings
+.settings/
+.mxproject
+
+# Other
+*.bak
+*.dep
