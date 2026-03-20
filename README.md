@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=cuFv07TlypM
 # SDV 통합 제어 플랫폼 (SDV-Centralized-Control-Platform)
 하드웨어가 소프트웨어에 의해 정의되는 SDV(Software Defined Vehicle) 구조를 기반으로 사용자 애플리케이션(Qt) - 게이트웨이(Raspberry Pi) - 구동 제어기(STM32)를 통합한 중앙 집중형 제어 시스템입니다.
 
